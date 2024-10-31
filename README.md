@@ -8,6 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-https://uts-if-3-b-2327250041-react.vercel.app/attendance
+https://uts-if-3-b-2327250041-react.vercel.app
 
 https://uts-if-3-b-2327250041-api.vercel.app/api/api/attendance
